@@ -1,0 +1,22 @@
+{
+  "name": "cdcolours",
+  "version": "1.0.0",
+  "description": "A colours package. Yes spelt colours not colors because UK vibes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreativeDevelopments/CDColours.git"
+  },
+  "keywords": [
+    "colours"
+  ],
+  "author": "Exxon#0293 and Cannon#4433",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CreativeDevelopments/CDColours/issues"
+  },
+  "homepage": "https://github.com/CreativeDevelopments/CDColours#readme"
+}
