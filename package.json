@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/CreativeDevelopments/CDColours/issues"
   },
-  "homepage": "https://github.com/CreativeDevelopments/CDColours#readme"
+  "homepage": "https://github.com/CreativeDevelopments/CDColours#readme",
+  "dependencies": {
+    "@types/node": "^14.14.34",
+    "ts-node": "^9.1.1"
+  }
 }
