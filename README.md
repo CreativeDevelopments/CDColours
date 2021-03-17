@@ -71,11 +71,7 @@ console.log(colour('Hello World', { textColour: 'green', backgroundColour: 'cyan
 ## Background Colours
 <span style="color: black">Black (Dark, Black, Preto, Negro)</span>  
 <span style="color: red">Red (Vermelho)</span>  
-<<<<<<< HEAD
 <span style="color: green">Green (Verde)</span>  
-=======
-<span style="color: green">Green (Verde)</span>  
->>>>>>> e20f01b44f1b3929776519312b6c5ae90f32ecfa
 <span style="color: yellow">Yellow (Amarelo)</span>  
 <span style="color: blue">Blue (Azul)</span>  
 <span style="color: magenta">Magenta</span>  
