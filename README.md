@@ -61,7 +61,7 @@ console.log(colour('Hello World', { textColour: 'green', backgroundColour: 'cyan
 ## Text Colours
 <span style="color: black">Black (Dark, Black, Preto, Negro)</span>  
 <span style="color: red">Red (Vermelho)</span>  
-<span style="color: green">Greeb (Verde)</span>  
+<span style="color: green">Green (Verde)</span>  
 <span style="color: yellow">Yellow (Amarelo)</span>  
 <span style="color: blue">Blue (Azul)</span>  
 <span style="color: magenta">Magenta</span>  
@@ -71,7 +71,7 @@ console.log(colour('Hello World', { textColour: 'green', backgroundColour: 'cyan
 ## Background Colours
 <span style="color: black">Black (Dark, Black, Preto, Negro)</span>  
 <span style="color: red">Red (Vermelho)</span>  
-<span style="color: green">Greeb (Verde)</span>  
+<span style="color: green">Green (Verde)</span>  
 <span style="color: yellow">Yellow (Amarelo)</span>  
 <span style="color: blue">Blue (Azul)</span>  
 <span style="color: magenta">Magenta</span>  
