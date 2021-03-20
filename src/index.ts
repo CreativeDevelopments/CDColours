@@ -8,13 +8,13 @@ const reset: string = '\x1b[0m'
      * 
      * Example:
      * 
-     * log('Hello World', {textColour: 'blue', backgroundColour: 'white'})
+     * colour('Hello World', {textColour: 'blue', backgroundColour: 'green'})
      */
 
 const colour = (text: string, {textColour = 'none', backgroundColour = 'none'}): string | void => {
         if (!text) { return console.error("\x1b[36mCDColours \x1b[34m>> \x1b[37mNo text was provided") }
         if (typeof text != 'string') { return console.error("\x1b[36mCDColours \x1b[34m>> \x1b[37mText is not a string, received " + typeof text) }
-        if (textColour == 'none' && backgroundColour == 'none') { return console.error("\x1b[36mCDColours \x1b[34m>> \x1b[37mNo colours were specified, try \x1b[1mcolour.log('Hello World!', { textColour: 'blue', backgroundColour: 'green' })\x1b[0m instead") } // Oooo ok ill google n see
+        if (textColour == 'none' && backgroundColour == 'none') { return console.error("\x1b[36mCDColours \x1b[34m>> \x1b[37mNo colours were specified, try \x1b[1mcolour.log('Hello World!', { textColour: 'blue', backgroundColour: 'green' })\x1b[0m instead") }
 
 
         let a = text
@@ -116,6 +116,6 @@ const colour = (text: string, {textColour = 'none', backgroundColour = 'none'}):
         }
 
        return a
-    }
+}
 
 export default colour;
