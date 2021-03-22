@@ -86,6 +86,6 @@ If you have any questions, suggestions or need helping setting it up join our [S
 Stuff we are adding
 
 <ul>
-    <li>More styling such as underline, bold etc<li>
+    <li>More styling such as underline, bold etc</li>
 </ul>
 
