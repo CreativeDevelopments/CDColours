@@ -18,7 +18,7 @@ const colour = (text, { textColour = 'none', backgroundColour = 'none' }) => {
         return console.error("\x1b[36mCDColours \x1b[34m>> \x1b[37mText is not a string, received " + typeof text);
     }
     if (textColour == 'none' && backgroundColour == 'none') {
-        return console.error("\x1b[36mCDColours \x1b[34m>> \x1b[37mNo colours were specified, try \x1b[1mcolour('Hello World!', { textColour: 'blue', backgroundColour: 'green' })\x1b[0m instead");
+        return console.error("\x1b[36mCDColours \x1b[34m>> \x1b[37mNo colours were specified, try \x1b[1mcolour('Hello World!', { textColour: 'blue', backgroundColour: 'green' }) \x1b[0minstead");
     }
     let a = text;
     switch (textColour.toLowerCase()) {
@@ -102,4 +102,5 @@ const colour = (text, { textColour = 'none', backgroundColour = 'none' }) => {
     return a;
 };
 module.exports = colour;
+module.exports.default = colour;
 //# sourceMappingURL=index.js.map
