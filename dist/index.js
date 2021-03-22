@@ -73,7 +73,7 @@ const colour = (text, { textColour = 'none', backgroundColour = 'none' }) => {
             break;
         case 'green':
         case 'verde':
-            a = a + "\x1b[42m" + text + reset;
+            a = "\x1b[42m" + text + reset;
             break;
         case 'yellow':
         case 'amarelo':
