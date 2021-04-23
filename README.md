@@ -64,14 +64,14 @@ console.log(colour('Hello World', { textColour: 'green', backgroundColour: 'cyan
 # Colours
 
 ## Available Colours
-<span style="color: black">Black (Dark, Black, Preto, Negro, Nero)</span>  
-<span style="color: red">Red (Vermelho, Rosso)</span>  
-<span style="color: green">Green (Verde)</span>  
-<span style="color: yellow">Yellow (Amarelo, Giallo)</span>  
-<span style="color: blue">Blue (Azul, Blu)</span>  
-<span style="color: magenta">Magenta</span>  
-<span style="color: cyan">Cyan (Ciano)</span>  
-<span style="color:white">White (Claro, Branco, Light, Bianco)</span>  
+• <span style="color: black">Black (Dark, Black, Preto, Negro, Nero)</span>  
+• <span style="color: red">Red (Vermelho, Rosso)</span>  
+• <span style="color: green">Green (Verde)</span>  
+• <span style="color: yellow">Yellow (Amarelo, Giallo)</span>  
+• <span style="color: blue">Blue (Azul, Blu)</span>  
+• <span style="color: magenta">Magenta</span>  
+• <span style="color: cyan">Cyan (Ciano)</span>  
+• <span style="color:white">White (Claro, Branco, Light, Bianco)</span>  
 
 <br>
 
