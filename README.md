@@ -10,19 +10,19 @@
 
 <br>
 
-<h1>CDColours is an easy to use colours package that works with TypeScript and JavaScript. CDColours also supports Portuguese</h1>
+<h1>CDColours is an easy to use colours package that works with TypeScript and JavaScript. CDColours also supports Portuguese and Italian</h1>
 
 <br>
 
 # Contents
 
+- [Contents](#contents)
 - [Installation](#installation)
 - [Setup](#setup)
-    - [JavaScript](#javascript)
-    - [TypeScript](#typescript)
+  - [JavaScript](#javascript)
+  - [TypeScript](#typescript)
 - [Colours](#colours)
-    - [Text Colours](#text-colours)
-    - [Background Colours](#background-colours)
+  - [Available Colours](#available-colours)
 - [Other](#other)
 
 <br>
@@ -58,25 +58,15 @@ console.log(colour('Hello World', { textColour: 'green', backgroundColour: 'cyan
 
 # Colours
 
-## Text Colours
-<span style="color: black">Black (Dark, Black, Preto, Negro)</span>  
-<span style="color: red">Red (Vermelho)</span>  
+## Available Colours
+<span style="color: black">Black (Dark, Black, Preto, Negro, Nero)</span>  
+<span style="color: red">Red (Vermelho, Rosso)</span>  
 <span style="color: green">Green (Verde)</span>  
-<span style="color: yellow">Yellow (Amarelo)</span>  
-<span style="color: blue">Blue (Azul)</span>  
+<span style="color: yellow">Yellow (Amarelo, Giallo)</span>  
+<span style="color: blue">Blue (Azul, Blu)</span>  
 <span style="color: magenta">Magenta</span>  
 <span style="color: cyan">Cyan (Ciano)</span>  
-<span style="color:white">White (Claro, Branco, Light)</span>  
-
-## Background Colours
-<span style="color: black">Black (Dark, Black, Preto, Negro)</span>  
-<span style="color: red">Red (Vermelho)</span>  
-<span style="color: green">Green (Verde)</span>  
-<span style="color: yellow">Yellow (Amarelo)</span>  
-<span style="color: blue">Blue (Azul)</span>  
-<span style="color: magenta">Magenta</span>  
-<span style="color: cyan">Cyan (Ciano)</span>  
-<span style="color:white">White (Claro, Branco, Light)</span>  
+<span style="color:white">White (Claro, Branco, Light, Bianco)</span>  
 
 <br>
 
