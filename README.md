@@ -10,9 +10,14 @@
 
 <br>
 
-<h1>CDColours is an easy to use colours package that works with TypeScript and JavaScript. CDColours also supports Portuguese and Italian</h1>
+<h1>CDColours is an easy to use colours package that works with TypeScript and JavaScript.</h1>
 
 <br>
+
+<h2>Languages Supported</H2><br>
+• Portuguese <br>
+• Italian <br>
+• Hindi <br>
 
 # Contents
 
@@ -28,7 +33,7 @@
 <br>
 
 # Installation
-```
+```sh
 npm i cdcolours
 ```
 
