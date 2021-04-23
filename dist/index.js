@@ -23,6 +23,15 @@ const colours = {
     ciano: 6,
     branco: 7,
     claro: 7,
+    // ITALIAN
+    nero: 0, scuro: 0,
+    rosso: 1,
+    verde: 2,
+    giallo: 3,
+    blu: 4,
+    magenta: 5,
+    ciano: 6,
+    bianco: 7,
 }
 
 /**
