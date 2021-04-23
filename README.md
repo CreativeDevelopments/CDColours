@@ -14,7 +14,7 @@
 
 <br>
 
-<h2>Languages Supported</H2><br>
+<h2>Languages Supported</h2>
 • Portuguese <br>
 • Italian <br>
 • Hindi <br>
