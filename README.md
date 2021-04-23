@@ -9,6 +9,7 @@
 </div>
 
 <br>
+<img src="https://socialify.git.ci/CreativeDevelopments/CDColours/image?font=Inter&owner=1&pattern=Charlie%20Brown&theme=Dark"><br>
 
 <h1>CDColours is an easy to use colours package that works with TypeScript and JavaScript.</h1>
 
