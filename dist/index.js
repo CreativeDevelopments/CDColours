@@ -56,9 +56,6 @@ const colour = (text, { textColour = 'none', backgroundColour = 'none' }) => {
         case 'claro':
         case 'white':
             a = "\x1b[37m" + a + reset;
-            break;
-        default:
-            break;
     }
     switch (backgroundColour.toLowerCase()) {
         case 'black':
@@ -95,9 +92,6 @@ const colour = (text, { textColour = 'none', backgroundColour = 'none' }) => {
         case 'branco':
         case 'claro':
             a = "\x1b[47m" + a + reset;
-            break;
-        default:
-            break;
     }
     return a;
 };
