@@ -11,8 +11,7 @@ const colours = {
     blue: 4,
     magenta: 5,
     cyan: 6,
-    light: 7,
-    white: 7,
+    light: 7, white: 7,
     // PORTUGUESE
     negro: 0, preto: 0,
     vermelho: 1,
@@ -21,8 +20,7 @@ const colours = {
     azul: 4,
     magenta: 5,
     ciano: 6,
-    branco: 7,
-    claro: 7,
+    branco: 7, claro: 7,
     // ITALIAN
     nero: 0, scuro: 0,
     rosso: 1,
@@ -32,6 +30,15 @@ const colours = {
     magenta: 5,
     ciano: 6,
     bianco: 7,
+    //HINDI
+    काला: 0, सावला: 0,
+    लाल: 1,
+    हरा: 2,
+    पीला: 3,
+    नीला: 4,
+    मैजेंटा: 5,
+    सायन: 6,
+    गोरा: 7, सफेद: 7, 
 }
 
 /**

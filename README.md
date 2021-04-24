@@ -1,34 +1,41 @@
-
-
-<div style="text-align:center">
-<a href="https://discord.com/invite/jUNbV5u"><img src="https://img.shields.io/discord/769710808435261490.svg"></a>
-<a href="https://www.npmjs.com/package/cdcolours"><img src="https://img.shields.io/npm/dt/cdcolours.svg"></a>
-<a href="https://www.npmjs.com/package/cdcolours"><img src="https://img.shields.io/npm/dm/cdcolours.svg?style=color=blue"></a>
-<a href="https://www.npmjs.com/package/cdcolours"><img src="https://img.shields.io/npm/v/cdcolours.svg?style=color=blue"></a>
-<a href="https://github.com/CreativeDevelopments/CDColours"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
-</div>
+[![](https://socialify.git.ci/CreativeDevelopments/CDColours/image?font=Inter&forks=1&issues=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)](https://github.com/CreativeDevelopments/CDColours)
 
 <br>
 
-<h1>CDColours is an easy to use colours package that works with TypeScript and JavaScript. CDColours also supports Portuguese and Italian</h1>
+[![](https://img.shields.io/discord/769710808435261490.svg?style=flat-square)](https://discord.gg/jUNbV5u)
+[![](https://img.shields.io/npm/dt/cdcolours.svg?style=flat-square)](https://www.npmjs.com/package/cdcolours)
+[![](https://img.shields.io/npm/dm/cdcolours.svg?style=flat-square)](https://www.npmjs.com/package/cdcolours)
+[![](https://img.shields.io/npm/v/cdcolours.svg?style=flat-square&color=blue)](https://www.npmjs.com/package/cdcolours)
+[![](https://img.shields.io/badge/license-Apache%202-blue.svg?style=flat-square)](https://github.com/CreativeDevelopments/CDColours)
 
 <br>
 
-# Contents
+# CDColours is an easy to use colours package that works with TypeScript and JavaScript.
 
-- [Contents](#contents)
+<br>
+
+# Table of Contents
+
+- [Supported Languages](#supported-languages)
 - [Installation](#installation)
 - [Setup](#setup)
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
 - [Colours](#colours)
-  - [Available Colours](#available-colours)
 - [Other](#other)
 
 <br>
 
+# Supported Languages
+- English
+- Portuguese
+- Italian
+- Hindi
+
+<br>
+
 # Installation
-```
+```sh
 npm i cdcolours
 ```
 
@@ -58,15 +65,14 @@ console.log(colour('Hello World', { textColour: 'green', backgroundColour: 'cyan
 
 # Colours
 
-## Available Colours
-<span style="color: black">Black (Dark, Black, Preto, Negro, Nero)</span>  
-<span style="color: red">Red (Vermelho, Rosso)</span>  
-<span style="color: green">Green (Verde)</span>  
-<span style="color: yellow">Yellow (Amarelo, Giallo)</span>  
-<span style="color: blue">Blue (Azul, Blu)</span>  
-<span style="color: magenta">Magenta</span>  
-<span style="color: cyan">Cyan (Ciano)</span>  
-<span style="color:white">White (Claro, Branco, Light, Bianco)</span>  
+• <span style="color: black">Black (Dark, Black, Preto, Negro, Nero, काला, सावला)</span>  
+• <span style="color: red">Red (Vermelho, Rosso, लाल)</span>  
+• <span style="color: green">Green (Verde, हरा)</span>  
+• <span style="color: yellow">Yellow (Amarelo, Giallo, पीला)</span>  
+• <span style="color: blue">Blue (Azul, Blu, नीला)</span>  
+• <span style="color: magenta">Magenta (मैजेंटा)</span>  
+• <span style="color: cyan">Cyan (Ciano, सायन)</span>  
+• <span style="color:white">White (Claro, Branco, Light, Bianco, गोरा, सफेद)</span>  
 
 <br>
 
