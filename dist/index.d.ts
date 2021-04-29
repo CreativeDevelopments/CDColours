@@ -10,6 +10,6 @@
 declare const colour: (text: string, { textColour, backgroundColour }: {
     textColour?: string | undefined;
     backgroundColour?: string | undefined;
-}) => string | void;
-export = colour;
+}) => string;
+
 export default colour;
