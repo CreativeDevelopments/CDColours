@@ -1,6 +1,6 @@
 {
   "name": "cdcolours",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "description": "A colours package. Yes spelt colours not colors because UK vibes",
   "main": "dist/index.js",
   "scripts": {
