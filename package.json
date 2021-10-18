@@ -24,7 +24,7 @@
     "url": "https://patreon.com/_CreativeDevelopments"
   },
   "dependencies": {
-    "@types/node": "^15.0.3",
+    "@types/node": "^16.11.1",
     "ts-node": "^9.1.1"
   }
 }
